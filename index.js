@@ -44,4 +44,4 @@ const iterate = async (varJson, varParent, varAncetre, array, setArray) => {
     }
 };
 
-module.exports = iterate;
+module.exports = { iterate };
